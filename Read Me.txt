@@ -1,4 +1,0 @@
-==================================Build Model================================== 
-When you run EDA, pre-processing and VGG16 file with Jupyter notebook or Colab.
-It will build .h5 model of VGG16 architecture of Deep Learning in this folder.
-===============================================================================
